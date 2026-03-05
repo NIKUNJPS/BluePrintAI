@@ -1,0 +1,5 @@
+{
+  "name": "SteelSight Intake",
+  "description": "An intelligent structural steel intake assistant for detailers, featuring deep analysis with Gemini 3 Pro Thinking mode, fast scanning with Flash Lite, and an integrated AI chatbot.",
+  "requestFramePermissions": []
+}
